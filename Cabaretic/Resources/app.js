@@ -5,7 +5,11 @@ var window1 = Titanium.UI.createWindow({
 	exitOnClose: true,
 	});
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 =======
 
 >>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
@@ -53,6 +57,7 @@ var portrait = Titanium.UI.createImageView({
 });
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 listenbutton.addEventListener('click', function(e)
 {
@@ -65,6 +70,11 @@ listenbutton.addEventListener('click', function(e)
 	listWin.open();
 	
 
+=======
+listenbutton.addEventListener('click', function()
+{
+	Titanium.Platform.openURL('http://www.youtube.com/user/cabaretic?feature=results_main'); 
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 =======
 listenbutton.addEventListener('click', function()
 {

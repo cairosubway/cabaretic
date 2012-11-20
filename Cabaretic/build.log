@@ -1,5 +1,6 @@
 Logfile initialized
 <<<<<<< HEAD
+<<<<<<< HEAD
 [INFO] logfile = /home/arh444/Downloads/cairosubway-cabaretic-55634a1/Cabaretic/build.log
 [DEBUG] /home/arh444/.titanium/mobilesdk/linux/2.1.2.GA/android/builder.py install Cabaretic /home/arh444/android-sdks /home/arh444/Downloads/cairosubway-cabaretic-55634a1/Cabaretic com.cairosubway.cabaretic 8
 [INFO] Titanium SDK version: 2.1.2 (08/24/12 14:46 ed7f777)
@@ -46,6 +47,8 @@ Logfile initialized
 [DEBUG] Android classes.dex built
 [DEBUG] creating unsigned apk: /home/arh444/Downloads/cairosubway-cabaretic-55634a1/Cabaretic/build/android/bin/app-unsigned.apk
 =======
+=======
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 [INFO] logfile = /home/arh444/Titanium_Studio_Workspace/Cabaretic5/build.log
 [DEBUG] /home/arh444/.titanium/mobilesdk/linux/2.1.1.GA/android/builder.py install Cabaretic /home/arh444/Downloads/android-sdk-linux /home/arh444/Titanium_Studio_Workspace/Cabaretic5 com.cairosubway.cabaretic 5
 [INFO] Titanium SDK version: 2.1.1 (07/27/12 14:01 0fd84a2)
@@ -91,13 +94,19 @@ Logfile initialized
 [INFO] Compiling Android Resources... This could take some time
 [DEBUG] Android classes.dex built
 [DEBUG] creating unsigned apk: /home/arh444/Titanium_Studio_Workspace/Cabaretic5/build/android/bin/app-unsigned.apk
+<<<<<<< HEAD
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
+=======
 >>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 [DEBUG] from resource zip => assets/Resources/ui/common/FirstView.js
 [DEBUG] from resource zip => assets/Resources/ui/handheld/android/ApplicationWindow.js
 [DEBUG] from resource zip => assets/Resources/ui/handheld/ApplicationWindow.js
 [DEBUG] from resource zip => assets/Resources/ui/tablet/ApplicationWindow.js
 <<<<<<< HEAD
+<<<<<<< HEAD
 [DEBUG] from resource zip => assets/Resources/FeederYT.js
+=======
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 =======
 >>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 [DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
@@ -106,7 +115,10 @@ Logfile initialized
 [DEBUG] from resource zip => assets/Resources/appicon.png
 [DEBUG] from resource zip => assets/Resources/default.png
 <<<<<<< HEAD
+<<<<<<< HEAD
 [DEBUG] from resource zip => assets/Resources/media.js
+=======
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 =======
 >>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 [DEBUG] from resource zip => assets/Resources/portrait.png
@@ -128,6 +140,7 @@ Logfile initialized
 [DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
 [DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
 [DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+<<<<<<< HEAD
 <<<<<<< HEAD
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.2.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.2.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
@@ -151,6 +164,8 @@ Logfile initialized
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
 =======
+=======
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.1.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
@@ -169,13 +184,20 @@ Logfile initialized
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
 [DEBUG] from JAR /home/arh444/.titanium/mobilesdk/linux/2.1.1.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+<<<<<<< HEAD
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
+=======
 >>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 [DEBUG] installing native SDK libs
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
 <<<<<<< HEAD
+<<<<<<< HEAD
 [DEBUG] waited 0.007569 seconds on emulator to get ready
+=======
+[DEBUG] waited 0.015467 seconds on emulator to get ready
+>>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
 =======
 [DEBUG] waited 0.015467 seconds on emulator to get ready
 >>>>>>> 55634a1f432e1821a55b4202f0ba428200ae75fb
